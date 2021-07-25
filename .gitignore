@@ -9,6 +9,8 @@ node_modules
 
 # don't push the environment vars!
 .env
+.env.*
+.*.swp
 
 # Built application files
 .DS*
